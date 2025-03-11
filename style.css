@@ -1,0 +1,19 @@
+.sun {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+
+
+.flex-container {
+   display: flexbox
+}
+
+.flex-container > div {
+    background-color: bisque;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+  }
