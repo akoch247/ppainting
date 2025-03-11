@@ -1,14 +1,28 @@
-.sun {
+body {
     background-color: black;
+}
+
+.moon {
+    background-color: white;
     height: 100px;
     width: 100px;
     border-radius: 50%;
 }
 
+.star {
+    background-color: white;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    margin-left: 500px;
+}
+
+
 
 
 .flex-container {
-   display: flexbox
+   display: flexbox;
+   margin-top: 500px;
 }
 
 .flex-container > div {
